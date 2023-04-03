@@ -15,14 +15,13 @@
 
 # Tugas Pratikum 04
 ## PHP MODULAR
-### Hasil
-![video 1](Video/Hasil_Tabel.mp4)
-Fractal nodes in Mixture:
-![image](https://user-images.githubusercontent.com/6877923/102915300-d8944e00-4481-11eb-8e93-f7a57c21b830.png)
 
-Mixture Variants:
+Hasil:
 
-https://user-images.githubusercontent.com/Video/Hasil_Tabel.mp4
+
+https://user-images.githubusercontent.com/92675066/229413648-2561abc8-757e-445c-92ff-59df6eee9fe3.mp4
+
+
 
 
 
