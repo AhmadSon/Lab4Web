@@ -15,6 +15,8 @@
 
 # Tugas Pratikum 04
 ## PHP MODULAR
+### Hasil
+![video 1](Video/Hasil_Tabel.mp4)
 
 
 
