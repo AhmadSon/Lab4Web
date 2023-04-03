@@ -22,7 +22,7 @@ Fractal nodes in Mixture:
 
 Mixture Variants:
 
-https://drive.google.com/file/d/1lHf1JtUqJeJHqx7c9UZKPY_ZIFPAerv5/view?usp=share_link
+https://user-images.githubusercontent.com/Video/Hasil_Tabel.mp4
 
 
 
